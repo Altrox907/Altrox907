@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI And ML
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You can never get bored talking to me.
+- ⚡ Fun fact: I'm HIM
 
 <!---
 Altrox907/Altrox907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
